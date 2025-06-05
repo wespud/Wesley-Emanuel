@@ -1,4 +1,4 @@
-# Wesley-Emanuel / README.md
+# Wesley-Emanuel
 
 Me Formando Ciências da Computação, com foco em desenvolvimento web. Atualmente, estou aprofundando meus conhecimentos em JavaScript, HTML5, CSS, JavaScript, React/ReactNative e ReactJS, buscando sempre me atualizar com as novas tendências do mercado. Apaixonado por tecnologia e inovação, estou em constante aprendizado para criar soluções eficientes e impactantes.
 
